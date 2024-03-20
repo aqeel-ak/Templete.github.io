@@ -135,7 +135,7 @@ align-items: center;
 
 .ser-box1:hover{
 transform: translatey(-20px);
-/* flex-wrap: wrap; */git
+/* flex-wrap: wrap; */
 box-shadow: 10px 10px 20px rgb(19, 17, 17);
 }
 
